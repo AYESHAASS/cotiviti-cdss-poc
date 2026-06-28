@@ -39,7 +39,10 @@ cotiviti-cdss-poc/
 In edge cases where ML models may provide low-risk scores due to missing data, the **Agentic Reasoning Layer** performs a safety check against clinical thresholds (e.g., Identifying high glucose as "Prediabetes" even if the ML probability is low).
 
 *(Insert Case 1 Screenshot here)*
+![Case 1 Analysis](assets/case%201.png)
 *(Insert Case 2 Screenshot here)*
+![Case 2 Analysis](assets/case%202.png)
+
 
 ## ⚙️ How to Run
 1. **Clone the repository:**
@@ -63,4 +66,3 @@ In edge cases where ML models may provide low-risk scores due to missing data, t
 
 ## 👨‍🔬 Research Background
 This POC is an extension of my first-author research published in **Springer Nature**, focusing on Hybrid Deep Learning approaches for clinical decision support.
-```
