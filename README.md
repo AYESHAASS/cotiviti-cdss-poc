@@ -38,16 +38,14 @@ cotiviti-cdss-poc/
 ### Case: Borderline Risk Management
 In edge cases where ML models may provide low-risk scores due to missing data, the **Agentic Reasoning Layer** performs a safety check against clinical thresholds (e.g., Identifying high glucose as "Prediabetes" even if the ML probability is low).
 
-*(Insert Case 1 Screenshot here)*
 ![Case 1 Analysis](assets/case%201.png)
-*(Insert Case 2 Screenshot here)*
 ![Case 2 Analysis](assets/case%202.png)
 
 
 ## ⚙️ How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cotiviti-cdss-poc.git
+   git clone https://github.com/AYESHAASS/cotiviti-cdss-poc
    cd cotiviti-cdss-poc
    ```
 2. **Setup Environment:**
