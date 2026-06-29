@@ -1,4 +1,5 @@
 # 🏥 Clinical Decision Support System (CDSS) with Agentic AI & Explainability
+👉 **[Watch the Video Demo Here](https://youtu.be/i71QU5sO82kE)**
 
 ## 🎯 Overview
 This Project is a **Proof of Concept (POC)** developed to address **Cotiviti Topic 2**: *Clinical Decision Making and Pattern Recognition in Health Care.*
