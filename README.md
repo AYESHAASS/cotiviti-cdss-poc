@@ -64,3 +64,8 @@ In edge cases where ML models may provide low-risk scores due to missing data, t
 
 ## 👨‍🔬 Research Background
 This POC is an extension of my first-author research published in **Springer Nature**, focusing on Hybrid Deep Learning approaches for clinical decision support.
+
+## 📺 Video Demonstration
+Click the link below to watch a 4-minute walkthrough of the CDSS Proof of Concept, including the technical architecture and a live demo of the "Safety Layer" reasoning.
+
+👉 **[Watch the Video Demo Here](https://youtu.be/i71QU5sO82kE)**
