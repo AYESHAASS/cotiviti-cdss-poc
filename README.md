@@ -50,9 +50,10 @@ In edge cases where ML models may provide low-risk scores due to missing data, t
    cd cotiviti-cdss-poc
    ```
 2. **Setup Environment:**
-   Create a `.env` file in the root and add your Groq API Key:
-   ```text
-   GROQ_API_KEY=your_key_here
+   Create a `.env` file in the root directory of the project.
+   Add your Groq API Key to the file using the following format:
+```env
+   GROQ_API_KEY=your_actual_api_key_here
    ```
 3. **Install Dependencies:**
    ```bash
